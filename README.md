@@ -1,5 +1,5 @@
 # formacion_java_poo_alura
-La formación Java Orientado a Objetos de Alura es una guía de aprendizaje completo para que inicies una carrera en programación Java.
+Todos los documentos trabajados para la formación Java Orientado a Objetos de Alura para iniciar una carrera en programación Java.
 
 Contiene todo el trabajo realizado en el curso - Java Orientado a Objetos G5 - ONE:
 
